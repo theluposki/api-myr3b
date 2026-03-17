@@ -1,0 +1,26 @@
+{
+  "name": "api-myr3b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/",
+    "dev": "node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theluposki/api-myr3b.git"
+  },
+  "keywords": [],
+  "author": "theluposki",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/theluposki/api-myr3b/issues"
+  },
+  "homepage": "https://github.com/theluposki/api-myr3b#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
